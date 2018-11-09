@@ -1,0 +1,2 @@
+class BuzonNotificacion < ApplicationRecord
+end

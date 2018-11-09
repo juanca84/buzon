@@ -1,0 +1,2 @@
+class PersonaNatural < ApplicationRecord
+end
